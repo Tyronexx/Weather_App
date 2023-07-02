@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetWeatherForecast</string>
+    <string name="about_app">Weather App v.0.1</string>
+    <string name="api_used"><![CDATA[https://api.openweathermap.org/data/2.5/forecast/daily?q=abuja&appid=ed60fcfbd110ee65c7150605ea8aceea&units=imperial]]></string>
+</resources>
